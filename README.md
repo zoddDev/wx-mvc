@@ -2,7 +2,7 @@
 
 This repository serves as an easy to use Model View Controller (MVC) template for C++ using wxWidgets for GUI development.
 
-Download and start working with it: The project can be directly imported as a CLion project.
+Download and start working with it: The project can be directly imported as a [CLion](https://www.jetbrains.com/clion/) project.
 
 # What is [wxWidgets](https://www.wxwidgets.org)?
 
