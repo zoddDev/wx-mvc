@@ -1,0 +1,1 @@
+/usr/bin/c++   -pthread -g   CMakeFiles/FirstC.dir/App.cpp.o CMakeFiles/FirstC.dir/view/initial/InitialFrame.cpp.o CMakeFiles/FirstC.dir/controller/Controller.cpp.o CMakeFiles/FirstC.dir/controller/initial/InitialController.cpp.o  -o FirstC  -pthread -lwx_gtk2u_core-3.0 -lwx_baseu-3.0 

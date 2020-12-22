@@ -1,0 +1,3 @@
+/home/zodd/CLionProjects/wxMVC/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zodd/CLionProjects/wxMVC/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zodd/CLionProjects/wxMVC/cmake-build-debug/CMakeFiles/FirstC.dir
